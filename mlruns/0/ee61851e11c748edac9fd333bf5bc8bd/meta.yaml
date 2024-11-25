@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ee61851e11c748edac9fd333bf5bc8bd/artifacts
+end_time: 1732546680902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee61851e11c748edac9fd333bf5bc8bd
+run_name: enchanting-fish-948
+run_uuid: ee61851e11c748edac9fd333bf5bc8bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732546680850
+status: 3
+tags: []
+user_id: sals

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ae599188c79c4fbbb21ab1d90b353064/artifacts
+end_time: 1732547716135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae599188c79c4fbbb21ab1d90b353064
+run_name: melodic-koi-30
+run_uuid: ae599188c79c4fbbb21ab1d90b353064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732547715860
+status: 4
+tags: []
+user_id: sals

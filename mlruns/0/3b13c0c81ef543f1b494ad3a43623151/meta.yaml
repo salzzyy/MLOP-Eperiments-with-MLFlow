@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3b13c0c81ef543f1b494ad3a43623151/artifacts
+end_time: 1732548203061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b13c0c81ef543f1b494ad3a43623151
+run_name: indecisive-fowl-95
+run_uuid: 3b13c0c81ef543f1b494ad3a43623151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732548202599
+status: 3
+tags: []
+user_id: sals

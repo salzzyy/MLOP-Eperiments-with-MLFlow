@@ -1,0 +1,8 @@
+digest: eeadfa09
+name: dataset
+profile: '{"features_shape": [18, 13], "features_size": 234, "features_nbytes": 1872}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 13]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "sals", "mlflow.source.name": "d:\\MLOP-Eperiments-with-MLFlow\\src\\autologging.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "41e418ec072dbfceddfae5c36a94ea240bf25b02"}}'
+source_type: code

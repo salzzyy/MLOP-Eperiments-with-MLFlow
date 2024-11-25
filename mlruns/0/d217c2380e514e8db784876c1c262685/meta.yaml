@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d217c2380e514e8db784876c1c262685/artifacts
+deleted_time: 1732546801966
+end_time: 1732546574853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d217c2380e514e8db784876c1c262685
+run_name: youthful-chimp-393
+run_uuid: d217c2380e514e8db784876c1c262685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732546574801
+status: 4
+tags: []
+user_id: sals

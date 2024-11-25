@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fc437077cd0a4154aa249358541e3e40/artifacts
+deleted_time: 1732546801966
+end_time: 1732546490471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fc437077cd0a4154aa249358541e3e40
+run_name: legendary-bear-236
+run_uuid: fc437077cd0a4154aa249358541e3e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732546490431
+status: 4
+tags: []
+user_id: sals
