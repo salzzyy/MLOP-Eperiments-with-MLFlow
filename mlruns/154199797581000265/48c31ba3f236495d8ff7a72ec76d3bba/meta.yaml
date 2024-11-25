@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOP-Eperiments-with-MLFlow/mlruns/154199797581000265/48c31ba3f236495d8ff7a72ec76d3bba/artifacts
+end_time: 1732554325145
+entry_point_name: ''
+experiment_id: '154199797581000265'
+lifecycle_stage: active
+run_id: 48c31ba3f236495d8ff7a72ec76d3bba
+run_name: hilarious-crab-687
+run_uuid: 48c31ba3f236495d8ff7a72ec76d3bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732554325100
+status: 3
+tags: []
+user_id: sals

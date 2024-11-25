@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOP-Eperiments-with-MLFlow/mlruns/154199797581000265/48928d70a4574502b93e24bcfe52279b/artifacts
+end_time: 1732554325370
+entry_point_name: ''
+experiment_id: '154199797581000265'
+lifecycle_stage: active
+run_id: 48928d70a4574502b93e24bcfe52279b
+run_name: zealous-calf-881
+run_uuid: 48928d70a4574502b93e24bcfe52279b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732554325327
+status: 3
+tags: []
+user_id: sals

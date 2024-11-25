@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLOP-Eperiments-with-MLFlow/mlruns/154199797581000265/e7ef7df56d9a460a9a7ba1370e81e7a8/artifacts
+deleted_time: 1732554349364
+end_time: 1732554083341
+entry_point_name: ''
+experiment_id: '154199797581000265'
+lifecycle_stage: deleted
+run_id: e7ef7df56d9a460a9a7ba1370e81e7a8
+run_name: casual-fox-442
+run_uuid: e7ef7df56d9a460a9a7ba1370e81e7a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732554079050
+status: 4
+tags: []
+user_id: sals

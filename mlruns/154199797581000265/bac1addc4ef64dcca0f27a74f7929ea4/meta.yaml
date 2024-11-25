@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOP-Eperiments-with-MLFlow/mlruns/154199797581000265/bac1addc4ef64dcca0f27a74f7929ea4/artifacts
+end_time: 1732554325258
+entry_point_name: ''
+experiment_id: '154199797581000265'
+lifecycle_stage: active
+run_id: bac1addc4ef64dcca0f27a74f7929ea4
+run_name: silent-fowl-135
+run_uuid: bac1addc4ef64dcca0f27a74f7929ea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732554325208
+status: 3
+tags: []
+user_id: sals

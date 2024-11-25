@@ -31,20 +31,9 @@ grid_search = GridSearchCV(
 # Set up MLflow experiment
 mlflow.set_experiment("breast-cancer-rf-hp")
 
-with mlflow.start_run() as parent:
+with mlflow.start_run():
     # Fit the model
     grid_search.fit(x_train, y_train)
-
-    # Log all the child runs:
-    for i in range(len(grid_search.cv_results_["params"])):
-
-        with mlflow.start_run(nested=True) as child:
-            # Each parameter set is a dictionary; log it individually
-            params = grid_search.cv_results_["params"][i]
-            mlflow.log_params(params)
-
-            # Log accuracy as a metric
-            mlflow.log_metric("accuracy", grid_search.cv_results_["mean_test_score"][i])
 
     # Get the best parameters and score
     best_params = grid_search.best_params_

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOP-Eperiments-with-MLFlow/mlruns/154199797581000265/9574cde4b09a4ce6b04ebe5a8d2a4917/artifacts
+end_time: 1732553551660
+entry_point_name: ''
+experiment_id: '154199797581000265'
+lifecycle_stage: active
+run_id: 9574cde4b09a4ce6b04ebe5a8d2a4917
+run_name: big-roo-623
+run_uuid: 9574cde4b09a4ce6b04ebe5a8d2a4917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732553542275
+status: 3
+tags: []
+user_id: sals

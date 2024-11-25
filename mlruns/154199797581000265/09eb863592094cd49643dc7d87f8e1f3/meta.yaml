@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOP-Eperiments-with-MLFlow/mlruns/154199797581000265/09eb863592094cd49643dc7d87f8e1f3/artifacts
+end_time: 1732554324825
+entry_point_name: ''
+experiment_id: '154199797581000265'
+lifecycle_stage: active
+run_id: 09eb863592094cd49643dc7d87f8e1f3
+run_name: bemused-rook-104
+run_uuid: 09eb863592094cd49643dc7d87f8e1f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732554324777
+status: 3
+tags: []
+user_id: sals

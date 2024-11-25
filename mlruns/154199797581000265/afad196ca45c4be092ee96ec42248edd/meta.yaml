@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOP-Eperiments-with-MLFlow/mlruns/154199797581000265/afad196ca45c4be092ee96ec42248edd/artifacts
+end_time: 1732554325319
+entry_point_name: ''
+experiment_id: '154199797581000265'
+lifecycle_stage: active
+run_id: afad196ca45c4be092ee96ec42248edd
+run_name: painted-bee-821
+run_uuid: afad196ca45c4be092ee96ec42248edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732554325267
+status: 3
+tags: []
+user_id: sals

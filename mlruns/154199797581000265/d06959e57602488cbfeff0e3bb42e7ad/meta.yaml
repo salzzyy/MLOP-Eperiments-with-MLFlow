@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLOP-Eperiments-with-MLFlow/mlruns/154199797581000265/d06959e57602488cbfeff0e3bb42e7ad/artifacts
+deleted_time: 1732554349364
+end_time: 1732554228490
+entry_point_name: ''
+experiment_id: '154199797581000265'
+lifecycle_stage: deleted
+run_id: d06959e57602488cbfeff0e3bb42e7ad
+run_name: chill-bear-444
+run_uuid: d06959e57602488cbfeff0e3bb42e7ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732554223945
+status: 4
+tags: []
+user_id: sals

@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLOP-Eperiments-with-MLFlow/mlruns/154199797581000265/c2c4412128f64d079d96612dc05c985c/artifacts
+deleted_time: 1732553773812
+end_time: 1732553467671
+entry_point_name: ''
+experiment_id: '154199797581000265'
+lifecycle_stage: deleted
+run_id: c2c4412128f64d079d96612dc05c985c
+run_name: incongruous-eel-693
+run_uuid: c2c4412128f64d079d96612dc05c985c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732553463029
+status: 4
+tags: []
+user_id: sals

@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLOP-Eperiments-with-MLFlow/mlruns/154199797581000265/fe96e85c80a247f7831a809b550fac16/artifacts
+deleted_time: 1732554357059
+end_time: 1732554228488
+entry_point_name: ''
+experiment_id: '154199797581000265'
+lifecycle_stage: deleted
+run_id: fe96e85c80a247f7831a809b550fac16
+run_name: casual-skunk-573
+run_uuid: fe96e85c80a247f7831a809b550fac16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732554228439
+status: 4
+tags: []
+user_id: sals
